@@ -1,4 +1,4 @@
-## 👨‍💻 Changing IT World
+## 👨‍💻 Making a small touchable worlds
 <picture style="text-align: center">
  <img alt="" src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif" height="400px">
 </picture>
