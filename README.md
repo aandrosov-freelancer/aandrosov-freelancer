@@ -1,23 +1,10 @@
 ## Hi there 👋
 <picture style="text-align: center">
- <img alt="" src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif">
+ <img alt="" src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif" height="400px">
 </picture>
-<!--
-**aandrosov-freelancer/aandrosov-freelancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
   
-I'm a Mobile Developer from Russia
+### I'm a Mobile Developer from Russia 📱
 - 🌱 I’m currently learning mobile development
+- ✍️ You can write me any questions
 - 📫 How to reach me: aandrosov.freelancer@gmail.com
-- ⚡ Fun fact: I love milk 
+- ⚡ Fun fact: I love milk and books
