@@ -6,7 +6,6 @@
 ### I'm a Mobile Developer from Russia 📱
 - 🌱 I’m currently learning mobile development
 - ✍️ You can write me any questions
-- 📫 How to reach me: aandrosov.freelancer@gmail.com
-- ⚡ Fun fact: I love milk, sport and books
+- 📫 How to reach me: aandrosov.primary@gmail.com
 
 
